@@ -50,7 +50,7 @@ Python_Final/
 
 ---
 
-## 📂 Archivos CSV requeridos
+## Archivos CSV requeridos
 
 ### clientes.csv
 | idcliente | nombre | email | fecha_alta |
