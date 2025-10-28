@@ -1,0 +1,17 @@
+Clientes registrados
+ID Cliente,Nombre,Email,Fecha de alta
+1,Ana,ana@gmail.com,2023-01-10
+2,Carlos,carlos@hotmail.com,2024-02-12
+3,Lucía,lucia@yahoo.es,2024-03-05
+Eventos
+ID Evento,Nombre del evento,Categoría,Fecha del evento
+1,Concierto de Rock,Música,2025-06-12
+2,Feria del Libro,Cultura,2025-05-03
+3,Carrera 10K,Deporte,2025-09-15
+Ventas
+ID Venta,ID Cliente,ID Evento,Fecha venta,Cantidad,Total
+1,1,2,2025-01-15,2,100
+2,3,1,2025-02-10,1,50
+3,2,3,2025-03-22,4,200
+4,4,5,2025-04-05,3,150
+5,5,4,2025-06-18,2,120
