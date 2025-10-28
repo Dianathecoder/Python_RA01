@@ -1,6 +1,6 @@
 # Python_Final — Sistema de Gestión de Eventos, Clientes y Ventas
 
-## 📖 Descripción general
+##  Descripción general
 **Python_Final** es una aplicación de consola desarrollada en **Python** que permite gestionar **clientes, eventos y ventas** mediante archivos CSV.  
 El sistema ofrece un menú interactivo con funciones como carga de datos, alta de clientes, filtrado por fechas, métricas y exportación de informes.
 
